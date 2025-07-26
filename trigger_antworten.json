@@ -1,0 +1,196 @@
+{
+  "zahlung": {
+    "trigger": [
+      "paypal",
+      "zahlung",
+      "bezahlen",
+      "zahlungsmethode",
+      "überweisung"
+    ],
+    "antworten": [
+      {
+        "text": "Ich nehme PayPal, Amazon oder Paysafecard 😊 Was wär dir lieber?",
+        "score": 5
+      },
+      {
+        "text": "Bezahlen kannst du mit PayPal, Amazon oder Paysafecard, was passt dir am besten, baby? 💕",
+        "score": 4
+      }
+    ]
+  },
+  "ablauf": {
+    "trigger": [
+      "wie läuft das ab",
+      "was bekomme ich",
+      "was ist in der box",
+      "wie funktioniert das"
+    ],
+    "antworten": [
+      {
+        "text": "Ganz easy: Erst zahlst du per PayPal, Amazon oder Paysafecard, danach schalten wir direkt auf Telegram um – dort bekommst du dann alles was du willst 😉",
+        "score": 5
+      }
+    ]
+  },
+  "fakecheck": {
+    "trigger": [
+      "fakecheck",
+      "fake check",
+      "check",
+      "FC",
+      "Echtheisnachweis"
+    ],
+    "antworten": [
+      {
+        "text": "Klar! Sag einfach wie du ihn haben willst 😙",
+        "score": 5
+      }
+    ]
+  },
+  "lust": {
+    "trigger": [
+      "bin geil",
+      "lust",
+      "hi",
+      "bock",
+      "heiß"
+    ],
+    "antworten": [
+      {
+        "text": "Na Lust auf was Neues heute? 😏 Magst du die Übersicht sehen?",
+        "score": 5
+      }
+    ]
+  },
+  "preise": {
+    "trigger": [
+      "was kostet es",
+      "preise",
+      "kosten",
+      "wie teuer"
+    ],
+    "antworten": [
+      {
+        "text": "Interessierst du dich für meinen heißen Sexchat oder lieber für meine Spezialbox mit Fotos und Videos, baby? 😘 Sag kurz Bescheid!",
+        "score": 5
+      },
+      {
+        "text": "Welches Angebot interessiert dich denn? Sexting-Chat oder Spezialbox? Dann sag ich dir direkt die Preise 😊",
+        "score": 4
+      }
+    ]
+  },
+  "nur_videos": {
+    "trigger": [
+      "nur die videos",
+      "einzelne clips",
+      "videos ohne bilder",
+      "clips einzeln",
+      "nur videos kaufen"
+    ],
+    "antworten": [
+      {
+        "text": "Nur die Videos alleine nicht, tut mir leid. Aber das ist ein Super Preis für so viel Content! Die Bilder sind dann wie Geschenkt on Top! 💕",
+        "score": 5
+      }
+    ]
+  },
+  "begrüßung": {
+    "trigger": [
+      "hey",
+      "heyy",
+      "na",
+      "was geht",
+      "huhu",
+      "hi",
+      "hab interesse",
+      "hätte bock",
+      "ich hätte lust",
+      "schöne anzeige",
+      "du siehst gut aus"
+    ],
+    "antworten": [
+      {
+        "text": "Heyyy! 😊 Was genau interessiert dich denn, baby?",
+        "score": 4
+      },
+      {
+        "text": "Schön, dass du da bist! Magst du mir sagen, worauf du heute Lust hast? 💕",
+        "score": 4
+      },
+      {
+        "text": "Na du 😉 Was kann ich heute für dich tun?",
+        "score": 4
+      }
+    ]
+  },
+  "videos_zeigen": {
+    "trigger": [
+      "videos",
+      "video packet",
+      "sehen",
+      "link",
+      "content",
+      "drive",
+      "zeigen"
+    ],
+    "antworten": [
+      {
+        "text": "Erst nach der Zahlung schicke ich dir gern alles direkt zu – bis dahin darfst du aber schon mal gespannt sein 😏",
+        "score": 5
+      },
+      {
+        "text": "Die Inhalte gibt's nach Zahlung direkt per Google Drive oder Telegram – freu mich schon, dir alles zu zeigen 💦",
+        "score": 4
+      }
+    ]
+  },
+  "sexchat": {
+    "trigger": [
+      "sexchat",
+      "chat starten",
+      "sexgespräch",
+      "chat beginnen",
+      "sexting",
+      "telegram chat",
+      "anfangen zu chatten",
+      "lass uns starten"
+    ],
+    "antworten": [
+      {
+        "text": "Der Sexchat startet erst, sobald die Zahlung angekommen ist, baby. Dann bin ich ganz für dich da! 😘",
+        "score": 5
+      },
+      {
+        "text": "Ich freu mich auf unseren Chat – aber erst nach Zahlung, okay? Sicherheit geht vor! 😉",
+        "score": 4
+      },
+      {
+        "text": "Sexting gibt’s nur, wenn die Zahlung da ist. Bis dahin bleib ich lieb zu dir! 💕",
+        "score": 4
+      },
+      {
+        "text": "Ich freue mich auf unseren Chat – aber erst nach Zahlung. Sicherheit für uns beide, hihi! 😉",
+        "score": 4
+      }
+    ]
+  },
+  "lange_pause": {
+    "trigger": [
+      "lange nicht geschrieben",
+      "noch da",
+      "bist du da",
+      "keine antwort"
+    ],
+    "antworten": [
+      {
+        "text": "Hey du, noch da? 🥺💕 Nicht, dass du mich hier allein lässt!",
+        "score": 5
+      },
+      {
+        "text": "Baby, bist du noch da? Ich vermisse deine Nachricht schon 😘",
+        "score": 4
+      }
+    ]
+  }
+}
